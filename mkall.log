@@ -1,0 +1,89 @@
+jaloo@142:~/src/slackware64-current$ ../mkall.sh
+xorriso 1.5.1 : RockRidge filesystem manipulator, libburnia project.
+
+Drive current: -outdev 'stdio:../slackware64-current.iso'
+Media current: stdio file, overwriteable
+Media status : is blank
+Media summary: 0 sessions, 0 data blocks, 0 data, 26.1g free
+xorriso : WARNING : -volid text does not comply to ISO 9660 / ECMA 119 rules
+Added to ISO image: directory '/'='/home/jaloo/src/slackware64-current'
+xorriso : UPDATE :    4702 files added in 1 seconds
+xorriso : UPDATE :    4702 files added in 1 seconds
+xorriso : NOTE : Copying to System Area: 432 bytes from file '/usr/share/syslinux/isohdpfx.bin'
+libisofs: WARNING : Cannot add /extra/flashplayer-plugin to Joliet tree. Symlinks can only be added to a Rock Ridge tree.
+libisofs: WARNING : Cannot add /extra/java to Joliet tree. Symlinks can only be added to a Rock Ridge tree.
+libisofs: WARNING : Cannot add /isolinux/sbootmgr/RAWRITE13.EXE to Joliet tree. Symlinks can only be added to a Rock Ridge tree.
+libisofs: WARNING : Cannot add /slackware64/PACKAGES.TXT to Joliet tree. Symlinks can only be added to a Rock Ridge tree.
+libisofs: NOTE : Automatically adjusted MBR geometry to 1019/181/32
+libisofs: NOTE : Aligned image size to cylinder size by 392 blocks
+xorriso : UPDATE :  0.73% done
+xorriso : UPDATE :  12.27% done
+xorriso : UPDATE :  17.44% done, estimate finish Mon Feb 18 10:05:57 2019
+xorriso : UPDATE :  19.27% done, estimate finish Mon Feb 18 10:06:01 2019
+xorriso : UPDATE :  20.86% done, estimate finish Mon Feb 18 10:06:05 2019
+xorriso : UPDATE :  22.35% done, estimate finish Mon Feb 18 10:06:08 2019
+xorriso : UPDATE :  23.76% done, estimate finish Mon Feb 18 10:06:10 2019
+xorriso : UPDATE :  25.17% done, estimate finish Mon Feb 18 10:06:13 2019
+xorriso : UPDATE :  26.55% done, estimate finish Mon Feb 18 10:06:15 2019
+xorriso : UPDATE :  27.52% done, estimate finish Mon Feb 18 10:06:17 2019
+xorriso : UPDATE :  28.74% done, estimate finish Mon Feb 18 10:06:19 2019
+xorriso : UPDATE :  30.08% done, estimate finish Mon Feb 18 10:06:21 2019
+^[[Bxorriso : UPDATE :  31.38% done, estimate finish Mon Feb 18 10:06:23 2019
+xorriso : UPDATE :  32.76% done, estimate finish Mon Feb 18 10:06:44 2019
+xorriso : UPDATE :  34.13% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  35.51% done, estimate finish Mon Feb 18 10:06:44 2019
+xorriso : UPDATE :  36.88% done, estimate finish Mon Feb 18 10:06:44 2019
+xorriso : UPDATE :  38.25% done, estimate finish Mon Feb 18 10:06:44 2019
+xorriso : UPDATE :  39.23% done, estimate finish Mon Feb 18 10:06:46 2019
+xorriso : UPDATE :  40.64% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  41.92% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  43.30% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  44.79% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  46.26% done, estimate finish Mon Feb 18 10:06:46 2019
+xorriso : UPDATE :  47.63% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  48.96% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  50.39% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  51.81% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  53.15% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  54.48% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  55.82% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  57.13% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  58.47% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  59.76% done, estimate finish Mon Feb 18 10:06:45 2019
+xorriso : UPDATE :  61.08% done, estimate finish Mon Feb 18 10:06:46 2019
+xorriso : UPDATE :  62.08% done, estimate finish Mon Feb 18 10:06:46 2019
+xorriso : UPDATE :  62.63% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  63.48% done, estimate finish Mon Feb 18 10:06:49 2019
+xorriso : UPDATE :  64.68% done, estimate finish Mon Feb 18 10:06:49 2019
+xorriso : UPDATE :  66.13% done, estimate finish Mon Feb 18 10:06:49 2019
+xorriso : UPDATE :  67.48% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  68.82% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  70.14% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  71.52% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  72.91% done, estimate finish Mon Feb 18 10:06:49 2019
+xorriso : UPDATE :  74.25% done, estimate finish Mon Feb 18 10:06:49 2019
+xorriso : UPDATE :  75.59% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  76.97% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  78.30% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  79.59% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  80.85% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  82.04% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  83.20% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  84.43% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  85.56% done, estimate finish Mon Feb 18 10:06:48 2019
+xorriso : UPDATE :  85.94% done, estimate finish Mon Feb 18 10:06:49 2019
+xorriso : UPDATE :  86.49% done, estimate finish Mon Feb 18 10:06:50 2019
+xorriso : UPDATE :  87.49% done, estimate finish Mon Feb 18 10:06:51 2019
+xorriso : UPDATE :  88.62% done, estimate finish Mon Feb 18 10:06:51 2019
+xorriso : UPDATE :  89.81% done, estimate finish Mon Feb 18 10:06:51 2019
+xorriso : UPDATE :  91.01% done, estimate finish Mon Feb 18 10:06:50 2019
+xorriso : UPDATE :  92.22% done, estimate finish Mon Feb 18 10:06:50 2019
+xorriso : UPDATE :  93.43% done, estimate finish Mon Feb 18 10:06:50 2019
+xorriso : UPDATE :  94.68% done, estimate finish Mon Feb 18 10:06:50 2019
+xorriso : UPDATE :  95.87% done, estimate finish Mon Feb 18 10:06:50 2019
+xorriso : UPDATE :  97.07% done, estimate finish Mon Feb 18 10:06:50 2019
+xorriso : UPDATE :  98.27% done
+xorriso : UPDATE :  99.47% done
+ISO image produced: 1475512 sectors
+Written to medium : 1475512 sectors at LBA 0
+Writing to 'stdio:../slackware64-current.iso' completed successfully.
