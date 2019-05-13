@@ -2,5 +2,5 @@
 # for slackware64-current
 rsync -avP --delete rsync://ftp.slackware.com/slackware/slackware64-current .
 
-# for slackwarearm-current
-# rsync -Pavv --delete ftp.arm.slackware.com::slackwarearm/slackwarearm-current .
+# Slackware Linux Essentials
+wget ftp://ftp.slackbook.org/slackbook/slackbook-2.0.pdf
