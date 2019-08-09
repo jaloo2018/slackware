@@ -1,0 +1,4 @@
+#!/bin/bash
+pdf:	okular
+image:	display
+diff:	kompare
