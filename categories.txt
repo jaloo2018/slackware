@@ -1,0 +1,17 @@
+# Slackware-HOWTO
+
+	A	The base Slackware system.
+   AP	Linux applications.
+	D	Program development tools.
+	E	GNU Emacs.
+	F	FAQs and HOWTOs for common tasks.
+	K	Linux kernel source.
+  KDE	The KDE desktop environment and applications.
+    L	System libraries.
+	N	Networking applications and utilities.
+	T	TeX typesetting language.
+  TCL	Tcl/Tk/TclX scripting languages and tools.
+    X	X Window System graphical user interface.
+  XAP	Applications for the X Window System.
+ XFCE	The XFCE desktop environment and applications.
+	Y	Classic text-based BSD games.
