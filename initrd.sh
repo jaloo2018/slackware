@@ -14,6 +14,11 @@ $ cp initrd.img initrd.img.xz
 $ unxz initrd.img.xz
 $ cpio -idv < ../initrd.img
 
+# URL: https://access.redhat.com/solutions/24029
+mkdir initrd
+cd initrd
+sudo xz -dc ../initrd.img | cpio -idmv
+
 # initrd sources
 $ cd slackware64-current/source/installer/sources/initrd
 $ tar zxvf skeleton_initrd.tar.gz
